@@ -19,4 +19,4 @@ Building [TreeTrace](https://github.com/Tree-Trace/treetrace), a local-first CLI
 ## Contact
 
 - Web: [zionboggan.com](https://zionboggan.com)
-- Email: zionboggan@gmail.com
+- Email: zionboggan0@gmail.com
