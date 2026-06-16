@@ -1,20 +1,18 @@
 # Zion Boggan
 
-I build security tooling, developer tools, and the infrastructure to run them.
+I build local-first developer tools and self-hosted infrastructure. Security research keeps the work honest.
 
-I work across three areas that tend to feed each other:
+## What I work on
 
+- **Developer tooling.** CLI tools and agents built to actually ship. I care about the local-first, no-cloud-dependency end of the stack.
 - **Security research.** Vulnerability research, exploit development, and bug bounty work. Reading code for the bug, then proving it.
-- **Developer tooling.** Automated developer tools: data, signals, execution, and the plumbing that keeps them honest.
-- **Infrastructure.** A self-hosted Proxmox cluster I run end to end, including networking and VPN. If I depend on it, I want to operate it.
+- **Infrastructure.** I run my own hardware end to end. If I depend on it, I want to operate it.
 
-## Currently
+## Currently building
 
-Building [TreeTrace](https://github.com/Tree-Trace/treetrace), a local-first CLI that captures how you steer an AI coding agent so the next session, and the next person, can pick up where you left off.
+[TreeTrace](https://github.com/TreeTraceTool/TreeTrace) is a local-first CLI that tracks what you tell an AI coding agent during a session. Goal drift shows up in almost every long session. TreeTrace captures your decisions so the next session, or the next person, can pick up where you left off.
 
-## Worth a look
-
-- [Tree-Trace/treetrace](https://github.com/Tree-Trace/treetrace)
+Site: [treetrace.dev](https://treetrace.dev)
 
 ## Contact
 
